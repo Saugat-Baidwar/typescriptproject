@@ -6,6 +6,7 @@ function App() {
     <>
       <h1>hello world </h1>
       <h2>new change in code</h2>
+      <h3>new commit</h3>
       {/* <Card name="saugat" address="palpa" /> */}
       <Card name="saugat" address="palpa" />
     </>
